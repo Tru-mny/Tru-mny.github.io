@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tru-mny.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Tru-mny.github.io/static/js/main.26c225f8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Tru-mny.github.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Tru-mny.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tru-mny.github.io/index.html",
+    "main.073c9b0a.css.map": "/Tru-mny.github.io/static/css/main.073c9b0a.css.map",
+    "main.26c225f8.js.map": "/Tru-mny.github.io/static/js/main.26c225f8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Tru-mny.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.26c225f8.js"
+  ]
+}
