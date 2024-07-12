@@ -42,11 +42,11 @@
   
   ::-webkit-scrollbar-thumb {
     border-radius: 12px;
-    background: linear-gradient(135deg, #f57308, #fff, rgb(11, 242, 7));
+    background: linear-gradient(135deg, #000000, #fff, #008000);
   }
   
   ::-webkit-scrollbar-thumb:hover {
-    background: linear-gradient(135deg, #1a6ad2, #fff, rgb(245, 5, 53));
+    background: linear-gradient(135deg, #000000, #fff, #ff0000, #fff, #008000);
   }
   
   /*  Simillar  */

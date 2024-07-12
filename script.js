@@ -91,4 +91,12 @@ $(document).ready(function () {
       link.href = 'cv.pdf';
       link.click();
     }
+
+      document.getElementById('game')?.addEventListener('click', function() {
+        window.location.href = 'game.html';
+    });
+    
+    document.getElementById('home')?.addEventListener('click', function() {
+        window.location.href = 'index.html';
+    });
   });
