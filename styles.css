@@ -212,7 +212,7 @@
   /*  Home  */
   .home {
     display: flex;
-    background: url("https://source.unsplash.com/720x600/?dark,laptop") no-repeat
+    background: url("IMG_20240604_204926.jpg") no-repeat
       center;
     height: 100vh;
     color: #fff;
