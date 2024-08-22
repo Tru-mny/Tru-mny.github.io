@@ -84,11 +84,5 @@ $(document).ready(function () {
       }
     });
 
-    // File Download // 
-    function downloadfile() {
-      const link = document.createElement('a');
-      link.download = 'cv.pdf'
-      link.href = 'cv.pdf';
-      link.click();
-    }
+    
   });
