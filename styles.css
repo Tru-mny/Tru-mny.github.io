@@ -16,6 +16,11 @@
   ::-webkit-scrollbar-track {
     background: #f1f1f1;
   }
+
+  .styled-br {
+    display: block;
+    margin: 20px 0; /* Adds vertical space around the line break */
+}
   
   .loader_bg {
     position: fixed;
@@ -337,7 +342,7 @@
     background: none;
     animation: pulsate 1s ease-in-out;
   }
-  
+
   /*  Service  */
   .services,
   .projects {
