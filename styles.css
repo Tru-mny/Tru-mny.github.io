@@ -212,7 +212,7 @@
   /*  Home  */
   .home {
     display: flex;
-    background: url("IMG_20240604_204926.jpg") no-repeat
+    background: url("Images/MP_BGPicture.jpg") no-repeat
       center;
     height: 100vh;
     color: #fff;
